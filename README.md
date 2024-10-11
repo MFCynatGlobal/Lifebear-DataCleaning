@@ -1,3 +1,4 @@
+![datacleaning in Excel][datacleaning in Excel.jpeg]
 # Lifebear Data Processing Script
 
 ## Overview
