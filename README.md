@@ -1,4 +1,4 @@
-![datacleaning in Excel][]
+![datacleaning in Excel](https://github.com/MFCynatGlobal/Lifebear-DataCleaning/blob/main/datacleaning%20in%20Excel.jpg)
 
 # Lifebear Data Processing Script
 
